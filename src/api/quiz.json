@@ -1,0 +1,113 @@
+{
+  "categories": [
+    {
+      "id": "01",
+      "categoryName": "Cultura General",
+      "questions": [
+        {
+          "questionName": "¿Año en que el hombre llegó a la luna?",
+          "options": ["En 1956", "En 1987", "En 1969", "En 1970"],
+          "answer": ["En 1969"]
+        },
+        {
+          "questionName": "¿Cuál no es un color primario?",
+          "options": ["Rojo", "Azul", "Amarillo", "Verde"],
+          "answer": ["Verde"]
+        },
+        {
+          "questionName": "¿Cuál es el océano más grande del mundo",
+          "options": [
+            "Océano Índico",
+            "Océano Pacífico",
+            "Océano Atlántico",
+            "Océano Ártico"
+          ],
+          "answer": ["Océano Pacífico"]
+        },
+        {
+          "questionName": "¿País con forma de bota",
+          "options": ["Grecia", "Francia", "España", "Italia"],
+          "answer": ["Italia"]
+        }
+      ]
+    },
+    {
+      "id": "02",
+      "categoryName": "Tecnología",
+      "questions": [
+        {
+          "questionName": "¿Primera compañía en producir un teléfono de mano?",
+          "options": ["SonyEricsson", "Motorola", "Samsung", "Nokia"],
+          "answer": ["Motorola"]
+        },
+        {
+          "questionName": "¿Empresa de software que desarrollo Illustrator?",
+          "options": ["Microsoft", "Apple", "Adobe Systems", "IBM"],
+          "answer": ["Adobe Systems"]
+        },
+        {
+          "questionName": "¿Compañia que inventó la primera cámara digital?",
+          "options": ["Kodak", "Nikon", "Olimpo", "Cannon"],
+          "answer": ["Kodak"]
+        },
+        {
+          "questionName": "¿Qué país construyó la máquina Enigma?",
+          "options": ["Estados Unidos", "China", "Japón", "Alemania"],
+          "answer": ["Alemania"]
+        }
+      ]
+    },
+    {
+      "id": "03",
+      "categoryName": "Geografía",
+      "questions": [
+        {
+          "questionName": "¿Capital de Corea del Sur?",
+          "options": ["Busan", "Jeju", "Gwangju", "Seúl"],
+          "answer": ["Seúl"]
+        },
+        {
+          "questionName": "¿Capital de Reino Unido?",
+          "options": ["Londres", "Mánchester", "Liverpool", "Birmingham"],
+          "answer": ["Londres"]
+        },
+        {
+          "questionName": "¿En qué estado se encuentra Las Vegas?",
+          "options": ["Texas", "Nevada", "Florida", "California"],
+          "answer": ["Nevada"]
+        },
+        {
+          "questionName": "¿En qué continente se encuentra Lituania",
+          "options": ["Asia", "Ámerica", "Japón", "Europa"],
+          "answer": ["Europa"]
+        }
+      ]
+    },
+    {
+      "id": "04",
+      "categoryName": "Historia Universal",
+      "questions": [
+        {
+          "questionName": "¿Qué civilización construyó Machu Picchu",
+          "options": ["Aztecas", "Mayas", "Persas", "Incas"],
+          "answer": ["Incas"]
+        },
+        {
+          "questionName": "¿Año de la caída de México-Tenochtitlan?",
+          "options": ["1819", "1519", "1498", "1550"],
+          "answer": ["1519"]
+        },
+        {
+          "questionName": "¿Ciudad reconocida como la cuna de la democracia?",
+          "options": ["Esparta", "Atenas", "Mileto", "Argos"],
+          "answer": ["Atenas"]
+        },
+        {
+          "questionName": "¿En que década nació el movimiento Hippie",
+          "options": ["1990", "1920", "1960", "1930"],
+          "answer": ["1960"]
+        }
+      ]
+    }
+  ]
+}
